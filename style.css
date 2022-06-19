@@ -1,0 +1,20 @@
+.icon ul{
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+}
+.icon ul li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.list ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list ul li{
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 20px;
+}
